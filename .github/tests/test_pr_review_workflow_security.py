@@ -110,8 +110,6 @@ def owners_for_path(path: str) -> list[str]:
     "docs/validation-baseline-debt.md",
     "docs/schemas/agent.schema.json",
     ".auto-registry/agents.json",
-    "agents/new-agent/README.md",
-    "starter-kits/new-kit/kit.json",
     "new-directory/nested/file.txt",
     "docs/utilities/file.py",
     "utilities-other/file.py",
