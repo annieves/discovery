@@ -2,8 +2,8 @@
 
 This guide walks you, step by step, through using the onboarding tool to **prepare**, **validate**,
 and **deploy** the Azure resources for a Microsoft Discovery environment. It is written for the
-operator who will actually run the scripts. Follow it top to bottom the first time; after that you
-can jump straight to [The five stages](#the-five-stages). Everything you need is in this document —
+user with the appropriate permissions who will actually run the scripts. An IT administrator is preferred. Follow this guide from top to bottom the first time; after that you
+can jump straight to [The five stages](#5-the-five-stages). Everything you need is in this document —
 no other files are required reading.
 
 ---
